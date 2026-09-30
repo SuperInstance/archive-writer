@@ -1,9 +1,11 @@
 [package]
 name = "archive-writer"
 version = "0.1.0"
-description = "A Rust library for Archive Writer"
+description = "Archive Writer — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/archive-writer"
+repository = "https://github.com/SuperInstance/archive-writer"
 edition = "2021"
+
+keywords = ["archive-writer"]
 
 [dependencies]
